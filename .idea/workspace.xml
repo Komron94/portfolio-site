@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f90a9c1-8dc0-404c-9ae6-972a12fdd2ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yi5qyiT9AUX5cqCjodek4issbA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Komronbek\WebstormProjects\portfolio\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Komronbek\WebstormProjects\portfolio" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f90a9c1-8dc0-404c-9ae6-972a12fdd2ad" name="Default Changelist" comment="" />
+      <created>1632721765391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632721765391</updated>
+      <workItem from="1632721775223" duration="43867000" />
+      <workItem from="1633691316430" duration="20000" />
+      <workItem from="1633949986366" duration="104000" />
+      <workItem from="1634002918372" duration="595000" />
+      <workItem from="1634007207792" duration="3757000" />
+      <workItem from="1634094036284" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="131" key="FileChooserDialogImpl" timestamp="1634094717298">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="468" y="131" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1634094717298" />
+    <state x="264" y="105" key="IDE.errors.dialog" timestamp="1632831635836">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="264" y="105" key="IDE.errors.dialog/0.0.1366.738@0.0.1366.738" timestamp="1632831635836" />
+    <state x="184" y="12" key="SettingsEditor" timestamp="1633425481747">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1633425481747" />
+    <state x="344" y="170" key="run.anything.popup" timestamp="1633239631287">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="344" y="170" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1633239631287" />
+  </component>
+</project>
